@@ -1,6 +1,5 @@
 package food;
 
+public abstract class Fruit {
 
-public class Fruit {
-    
 }
